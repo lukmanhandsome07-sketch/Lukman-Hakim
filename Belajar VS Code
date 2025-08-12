@@ -1,0 +1,42 @@
+"C:\codingan"
+Belajar HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kelas X1-SMA IT HSI</title>
+</head>
+<body>
+<header>
+    <h1>SMA IT HSI</h1>
+</header>
+<main>
+    <div>
+        <h2>Visi dan Misi</h2>
+        <ul>
+            <li>Menjadi SMA Unggulan</li>
+            <li>Menjadi SMA Bertauhid</li>
+            <li>Menjadi SMA Teknologi</li>
+        </ul>
+    </div>
+</main>
+<footer>
+    <abbr title="SMA Unggulan">&copy; 2025 - SMA IT HSI</abbr>
+</footer>
+</body>
+</html>
+<hr>
+<head>
+<h1>Lukman Hakim</h1>
+</head>
+<main>
+    <h2>l3:lord,lukman,lucky</h2>
+<br>perkenalankan namaku Lukman,aku tinggal di tanjung priok dan brebes.umurku 17 tahun 2025,hobiku jogging,belajar,renang,dan kehidupan sehari-hariku <class="">
+<br>
+<br>24 Juli 2008 kelahiranku
+<h3>Thanks You</h3>
+</footer>
+</body>
+</html>
+<hr>
